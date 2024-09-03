@@ -14,12 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Tech Stack
 
-- **Frontend:** React, Next.js, Tailwind CSS, JavaScript, HTML, CSS
-- **Backend:** Node.js, Express
-- **Database:** MongoDB, PostgreSQL
-- **Version Control:** Git, GitHub
 
 ## Tech Stack
 
