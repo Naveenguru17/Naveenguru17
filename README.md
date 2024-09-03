@@ -1,6 +1,5 @@
-## Hi there 👋
+## Hi there 👋 Naveen here
 
-Naveen here
 <!--
 **Naveenguru17/Naveenguru17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
